@@ -1,0 +1,21 @@
+Write a single pseudocode statement that indicates each of the following:
+
+a) Display the message "Enter two numbers".
+## print "Enter two numbers" .
+
+b) Assign the sum of variables x, y, and z to variable p.
+## get the sum of x , y and z and assign the total result to the variable p .
+
+
+c) The following condition is to be tested in an if…else selection statement: The current
+value of variable m is greater than twice the current value of variable v.
+
+## if variable m is greater than variable v times two
+    print "True"
+    else print "False"
+
+
+d) Obtain values for variables s, r, and t from the keyboard.
+
+## get the input for s , r and t .
+

@@ -1,0 +1,29 @@
+State which of the following are true and which are false. If a statement is false, explain why.
+
+
+a) Experience has shown that the most difficult part of solving a problem on a computer
+is producing a working C program.
+        ## False.
+        ### developing an algorithm is which difficult part of solving a problem on a computer program.
+
+
+b) A sentinel value must be a value that cannot be confused with a legitimate data value.
+        ## True.
+
+c) Flowlines indicate the actions to be performed.
+        ## False.
+        ### it indicates the order in which action are performed.
+
+d) Conditions written inside decision symbols always contain arithmetic operators (i.e., +,
+-, *, /, and %).
+
+    ## False .
+    #### they usually contains conditional operators.
+         As : && , || , ?:
+
+
+
+e) In top-down, stepwise refinement, each refinement is a complete representation of the
+algorithm.
+
+        ## True .

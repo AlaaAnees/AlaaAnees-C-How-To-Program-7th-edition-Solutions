@@ -1,0 +1,31 @@
+Formulate a pseudocode algorithm for each of the following:
+
+a) Obtain two numbers from the keyboard, compute their sum and display the result.
+    # enter the first number.
+    ## enter the second number.
+    ### calculate the sum of first number and second number.
+    #### print (display) the result of the sum operation.
+
+
+b) Obtain two numbers from the keyboard, and determine and display which (if either) is
+the larger of the two numbers.
+
+    ## enter first num
+    ### enter sec num
+    #### if first num is greater than second num
+            print "first num is larger".
+         else
+            print "second number is larger".
+
+
+
+
+
+c) Obtain a series of positive numbers from the keyboard, and determine and display their
+sum. Assume that the user types the sentinel value -1 to indicate “end of data entry.”
+
+    # initialize total = 0
+    ## while number entered is > -1
+        add number to total
+
+        print total .
